@@ -1,6 +1,9 @@
 .Footer{
   background-color:#dddddd;
   position:fixed;
+  width:100%;
+  left:0;
+  bottom:0;
 }
 .Footer a{
   text-decoration:none;
