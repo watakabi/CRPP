@@ -5,6 +5,6 @@
 a{
   text-decoration:none;
 }
-a :after{
+a ::after{
   content:"/";
 }
