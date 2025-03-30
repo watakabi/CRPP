@@ -1,6 +1,3 @@
-.main h3{
-	text-align:center;
-}
 .main h3:before{
 	content:"～";
 }
@@ -13,6 +10,7 @@
 	list-style:none;	
 }
 .policy{
+	text-align:center;
 	width:100%;
 	background-color:#00cc00;
 }
