@@ -1,0 +1,25 @@
+.Header{
+	border-bottom:solid 2px #ffaa00;
+	display:flex;
+	text-align:center;
+}
+.main h3{
+	text-align:center;
+}
+.main h3:before{
+	content:"～";
+}
+.main h3:after{
+	content:"～";
+}
+.main ul{
+	text-align:center;
+	font-size:200%;
+	list-style:none;	
+}
+.seemore{
+	text-align:end;
+}
+.seemore a:before{
+	content:"もっと見る》";
+}
