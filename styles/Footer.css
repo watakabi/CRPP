@@ -1,9 +1,10 @@
 .Footer{
-  background-color:#777777;
+  background-color:##eae8e8;
   
 }
 a{
   text-decoration:none;
+  color:#000000;
 }
 a ::after{
   content:"/";
