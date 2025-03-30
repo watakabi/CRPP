@@ -4,12 +4,13 @@
   width:100%;
   left:0;
   bottom:0;
-  padding:10vm;
+  padding:10px 2em 10px;
 }
 .Footer a{
   text-decoration:none;
   color:#000000;
 }
-.Footer a::after{
-  content:"/";
+.Footer a:not(:last-child)::after{
+  content:" /";
 }
+.Footer a:last-child{}
