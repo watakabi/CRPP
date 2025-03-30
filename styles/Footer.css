@@ -1,6 +1,6 @@
 .Footer{
   background-color:#777777;
-  
+  position:fixed;
 }
 .Footer a{
   text-decoration:none;
