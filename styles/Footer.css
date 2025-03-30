@@ -1,3 +1,10 @@
-footer{
+.footer{
   background-color:#aaaaaa;
+  
+}
+a{
+  text-decoration:none;
+}
+a :after{
+  content:"/";
 }
