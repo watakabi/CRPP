@@ -28,3 +28,9 @@
 .main span{
 	background-color:#aaaaaa;
 }
+.main h1{
+	display:flex;
+	height:500px;
+	text-align:center;
+	text-size:24px;
+}
