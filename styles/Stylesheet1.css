@@ -21,6 +21,7 @@
 	content:"もっと見る》";
 }
 .Headerimg{
+	height:500px;
 	background-image: url("../images/onestep.jpg");
 	background-size: cover;
 }
