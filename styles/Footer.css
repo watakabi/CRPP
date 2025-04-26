@@ -3,9 +3,8 @@
   box-sizing:border-box;
   width:100%;
   left:0;
-  bottom:0;
   padding:10px 2em 10px;
-  position:fixed;
+  position:;
 }
 .Footer a{
   text-decoration:none;
